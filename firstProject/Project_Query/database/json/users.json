@@ -1,0 +1,62 @@
+[
+  {
+      "name": "Tushar",
+      "email": "tushar@gmail.com",
+      "age": 28,
+      "city": "Surat"
+  },
+  {
+      "name": "Rohan",
+      "email": "rohan@gmail.com",
+      "age": 25,
+      "city": "Mumbai"
+  },
+  {
+      "name": "Priya",
+      "email": "priya@gmail.com",
+      "age": 24,
+      "city": "Delhi"
+  },
+  {
+      "name": "Ankit",
+      "email": "ankit@gmail.com",
+      "age": 27,
+      "city": "Pune"
+  },
+  {
+      "name": "Neha",
+      "email": "neha@gmail.com",
+      "age": 26,
+      "city": "Bangalore"
+  },
+  {
+      "name": "Kunal",
+      "email": "kunal@gmail.com",
+      "age": 29,
+      "city": "Hyderabad"
+  },
+  {
+      "name": "Sneha",
+      "email": "sneha@gmail.com",
+      "age": 30,
+      "city": "Chennai"
+  },
+  {
+      "name": "Arjun",
+      "email": "arjun@gmail.com",
+      "age": 32,
+      "city": "Kolkata"
+  },
+  {
+      "name": "Meera",
+      "email": "meera@gmail.com",
+      "age": 23,
+      "city": "Ahmedabad"
+  },
+  {
+      "name": "Varun",
+      "email": "varun@gmail.com",
+      "age": 31,
+      "city": "Jaipur"
+  }
+]
